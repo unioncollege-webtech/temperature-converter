@@ -1,5 +1,7 @@
 # Temperature Converter
 
+[![Join the chat at https://gitter.im/unioncollege-webtech/temperature-converter](https://badges.gitter.im/unioncollege-webtech/temperature-converter.svg)](https://gitter.im/unioncollege-webtech/temperature-converter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Define functions to convert between celsius and fahrenheit.
 
 ## Description
