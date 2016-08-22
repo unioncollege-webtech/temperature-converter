@@ -21,6 +21,19 @@ Create a file called "temperature.js", which does the following:
 “Today’s temperature is <tempToday>°F, which is <tempInCelsius>°C.”
 5. Log `message` to the console.
 
+
+## Completing and submitting the assignment
+
+- To begin, [**fork** this repository](https://guides.github.com/activities/forking/).
+- [Create a new Cloud9 workspace](https://docs.c9.io/docs/setting-up-github-workspace) from your new repository.
+  - Alternatively, you may [**clone**](http://gitref.org/creating/#clone) your new repository to your computer.
+- Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
+- [Push](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
+- [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository to turn in the assignment.
+
+You are also welcome commit, push, and create a pull request **before** you’ve completed your solution. You can ask questions or request feedback there in your pull request. Just mention `@barberboy` in your comments to get my attention.
+
+
 ## Resources
 [Objects][Object]
 [Functions][Function]
