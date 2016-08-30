@@ -10,6 +10,6 @@ var Temperature = {
 
 var tempToday = 82; //Today's temperature in fahrenheit
 var tempInCelsius = Math.round(Temperature.toCelsius(tempToday));
-var message = 'Today’s temperature is ' + tempToday + '°F, which is ' + tempInCelsius + '°C.';
+var message = "Today's temperature is " + tempToday + "°F, which is " + tempInCelsius + "°C.";
 
 console.log(message);
