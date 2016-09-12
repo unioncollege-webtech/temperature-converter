@@ -1,0 +1,27 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "An exercise for using functions in objects",
+  "main": "temperature.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unioncollege-webtech/temperature-converter.git"
+  },
+  "keywords": [
+    "javascript",
+    "exercise",
+    "objects"
+  ],
+  "author": "James Clague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unioncollege-webtech/temperature-converter/issues"
+  },
+  "homepage": "https://github.com/unioncollege-webtech/temperature-converter"
+}

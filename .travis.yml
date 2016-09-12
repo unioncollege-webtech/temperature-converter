@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - stable
+# whitelist 'gh-pages' branch
+branches:
+  only:
+    - master
+    - gh-pages
+    - reference
